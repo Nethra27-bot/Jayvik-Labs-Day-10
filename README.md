@@ -2,9 +2,7 @@
 
 # Day 10 – Linux Files & Permissions 🐧
 
-**Assignment Code:** `DAY10-LINUX-FILES`  
-**Total Marks:** 20  
-**Topic:** Linux File Management and Permissions
+
 
 ## 📌 Project Overview
 This assignment focuses on Linux file management, directory operations, file permissions, ownership, and important Linux filesystem directories.
